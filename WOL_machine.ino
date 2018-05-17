@@ -212,5 +212,3 @@ void macStringToBytes(String mac, byte *bytes) {
     Serial.println("Incorrect MAC format.");
   }
 }
-
-
