@@ -1,5 +1,5 @@
 const char* ssid = "your_wifi_ssid";
-const char* password = "real_password";
+const char* password = "your_wifi_password";
 
 const char* www_username = "your_login";
 const char* www_password = "your_pass";
